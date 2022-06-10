@@ -1,4 +1,4 @@
-package com.snap.forMe.vo;
+package com.snap.forMe.domain;
 
 public class Field {
     public String field_name;
